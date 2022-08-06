@@ -1,6 +1,9 @@
-### Hi there 👋 I'm front-end developer
+<h1> Hi there 👋 My name is SO JAEHYUN.</h1>
+<h2>I'm front-end developer</h2>
+
 
 <!--
+<h1>SKILLS.</h1>
 **socow/socow** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
