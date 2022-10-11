@@ -1,5 +1,26 @@
-<h1> Hi there 👋 My name is SO JAEHYUN.</h1>
-<h2>I'm front-end developer</h2>
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=Soft&color=auto&height=200&section=header&text=Wecome%20Github&fontSize=60&animation=blink" />
+
+
+# Hi there 👋 My name is SO JAEHYUN.
+
+<br>
+
+## 🧑🏻‍💻I'm front-end developer</h2>
+
+<br>
+<br>
+
+## ⚒Tech Stack⚒
+
+<img src="https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=HTML5&logoColor=white"> <img src="https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=CSS3&logoColor=white"> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=white"> 
+
+<img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=React&logoColor=white"> 
+<div>
+<!--
+
+<div>
+<h1>SKILLS.</h1>
 
 
 <!--
