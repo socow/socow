@@ -3,15 +3,12 @@
 
 
 # Hi there 👋 My name is SO JAEHYUN.
-
-<br>
-
 # 🧑🏻‍💻I'm front-end developer</h2>
 <br>
-# 📮Contacts
-<br>
-<a href="https://velog.io/@so960225" target="_blank"><img src="https://img.shields.io/badge/Velog/so960225-20C997?style=flat&logo=Velog&logoColor=white"></a> 
+<h1>📮Contacts</h1>
 <a href="socowjh@gmail.com" target="_blank"><img src="https://img.shields.io/badge/socowjh@gmail.com-EA4335?style=flat&logo=Gmail&logoColor=white"></a> 
+<a href="https://velog.io/@so960225" target="_blank"><img src="https://img.shields.io/badge/Velog/so960225-20C997?style=flat&logo=Velog&logoColor=white"></a> 
+
 <br>
 <br>
 
