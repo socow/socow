@@ -4,5 +4,4 @@
 
 # Hi there 👋 I'm SO JAEHYUN.
 
-<h2>📮Contacts</h2>
-<a href="socowjh@gmail.com" target="_blank"><img src="https://img.shields.io/badge/socowjh@gmail.com-EA4335?style=flat&logo=Gmail&logoColor=white"></a> 
+<h2>📮Contacts  <a href="socowjh@gmail.com" target="_blank"><img src="https://img.shields.io/badge/socowjh@gmail.com-EA4335?style=flat&logo=Gmail&logoColor=white"></a> </h2>
