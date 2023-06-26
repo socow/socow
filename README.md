@@ -6,4 +6,3 @@
 
 <h2>📮Contacts</h2>
 <a href="socowjh@gmail.com" target="_blank"><img src="https://img.shields.io/badge/socowjh@gmail.com-EA4335?style=flat&logo=Gmail&logoColor=white"></a> 
-<a href="https://velog.io/@so960225" target="_blank"><img src="https://img.shields.io/badge/Velog/so960225-20C997?style=flat&logo=Velog&logoColor=white"></a> 
